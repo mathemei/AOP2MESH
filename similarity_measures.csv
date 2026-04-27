@@ -1,0 +1,8 @@
+mesh1	mesh2	rada	caviedes_cimino	wn.path_similarity	wu_palmer	wn.wup_similariy	leacock_chodorov	wn.lch_similarity	nguyen_alMubaid	resnik	wn.res_similarity	lin	wn.lin_similarity	jiang_conrath	wn.jcn_similarity	lesk	liu	skos:related	shared_descriptors
+Kidney	Liver	5	0.2 	0.125	0.2857	0.8235	1.7227 	2.2513 	4.5108	3.0267	8.5575	0.3351	0.7184	0.0832	0.1490	0.8235	0.5143	True	932
+Kidney Diseases	Liver Diseases	5	0.2  	0.1428	0.2222	0.7272 	1.7227 	1.6917	4.5108	1.6154	6.7154	0.2421	1.3431	0.0989	1,00E-300	0.8235	0.5794	True	654
+Kidney	Kidney Diseases	8	0.125	0.0526	0.0	0.1 	1.2527 	0.6931	4.9416	0.0 	None	0.0	None	0.0	1,00E-300	1.0	0.3455	True	1454
+Hypertension	Diabetes Mellitus	1	0.2 	0.0833	0.2222	0.5217	1.7227 	1.1527	4.5108	1.6154 	6.0156	0.1858	1.2031	0.0706	1,00E-300	0.5454	0.4769	True	673
+Kidney	Bacteria	6	0.1666	0.0741	0.0 	0.2353 	1.5404 	0.9985	4.7184	0.0 	0.8018	0.0	0.0769	0.0	0.0520	0.2353	0.3925	False	432
+																			
+		no	no	no	no	no	no	no	no	no	no 	no 	no 	no 	no 	maybe	maybe	no	
