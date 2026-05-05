@@ -1,1 +1,3 @@
 indexing_results*.tsv
+semantic_matching*.tsv
+pos_tagging*.tsv
